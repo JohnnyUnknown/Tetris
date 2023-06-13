@@ -1,0 +1,4 @@
+﻿  Tetris.cpp
+F:\c#\My projects\С++\Tetris\Tetris\Tetris.cpp(92,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\c#\My projects\С++\Tetris\Tetris\Tetris.cpp(297,21): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  Tetris.vcxproj -> F:\c#\My projects\С++\Tetris\x64\Debug\Tetris.exe
